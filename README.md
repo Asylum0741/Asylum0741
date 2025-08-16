@@ -1,8 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering Graduate with a strong focus on AI, Machine Learning, and NLP.<br>
-💡 Skilled in LLM fine-tuning, data analysis, and intelligent system development.<br>
-💻 Tech Stack: Python • JavaScript • React • Pandas • Scikit-learn<br>
-🚀 Passionate about solving real-world problems and constantly exploring new technologies.<br>
+I Like building cool stuff
 
 
 ## 🌐 Socials:
