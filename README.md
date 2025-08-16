@@ -1,5 +1,6 @@
 # 💫 About Me:
-I Like building cool stuff
+✨ I Like building cool stuff
+✨ and also the stuff I like
 
 
 ## 🌐 Socials:
